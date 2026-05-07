@@ -2,7 +2,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there%2C+I'm+[Codeper-bit]+ðŸ‘‹;Senior+Software+Engineer;Python+%7C+Rust+%7C+Web+Designer;Building+the+future+with+code+ðŸš€" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there%2C+I'm+[Codeper-bit]+‹;Senior+Software+Engineer;Python+%7C+Rust+%7C+Web+Designer;Building+the+future+with+code+" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,7 +20,7 @@
 
 ---
 
-## ðŸ‘¨â€ðŸ’» About Me
+» About Me
 
 ```python
 class SeniorSoftwareEngineer:
@@ -42,21 +42,21 @@ me.say_hi()
 
 ---
 
-## ðŸ› ï¸ Tech Stack & Skills
+»Tech Stack & Skills
 
-### Languages
+##Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frameworks & Libraries
+##Frameworks & Libraries
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Tools & Platforms
+##Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
@@ -65,7 +65,7 @@ me.say_hi()
 
 ---
 
-## ðŸ“Š GitHub Stats
+##GitHub Stats
 
 <div align="center">
 
@@ -80,7 +80,7 @@ me.say_hi()
 
 ---
 
-## ðŸ† GitHub Trophies
+##GitHub Trophies
 
 <div align="center">
 
@@ -90,7 +90,7 @@ me.say_hi()
 
 ---
 
-## ðŸ“ˆ Contribution Graph
+##Contribution Graph
 
 <div align="center">
 
@@ -100,7 +100,7 @@ me.say_hi()
 
 ---
 
-## ðŸ¤ Connect With Me
+##Connect With Me
 
 <div align="center">
 
@@ -114,10 +114,10 @@ me.say_hi()
 
 <div align="center">
 
-### ðŸ’¡ A Quote I Live By
+###A Quote I Live By
   
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-â­ï¸ **Feel free to star my repos if you find them useful!**
+**Feel free to star my repos if you find them useful!**
 
 </div>
