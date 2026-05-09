@@ -25,7 +25,7 @@
 ```python
 class SeniorSoftwareEngineer:
     def __init__(self):
-        self.name       = "[Your Name]"
+        self.name       = "Codeper-bit"
         self.role       = "Senior Software Engineer"
         self.location   = "Nigeria"
         self.languages  = ["Python", "Go", "Java", "Rust", "HTML", "CSS", "JavaScript"]
