@@ -28,10 +28,10 @@ class SeniorSoftwareEngineer:
         self.name       = "Codeper-bit"
         self.role       = "Senior Software Engineer"
         self.location   = "Nigeria"
-        self.languages  = ["Python", "Go", "Java", "Rust", "HTML", "CSS", "JavaScript"]
+        self.languages  = ["Python", "HTML", "CSS", "JavaScript"]
         self.frameworks = ["Django", "Flask", "FastAPI"]
-        self.interests  = ["AI & Machine Learning", "3D Generation", "Web Scraping", "Open Source"]
-        self.currently  = "Building cool AI-powered projects ðŸ¤–"
+        self.interests  = ["AI & Machine Learning", "Web Scraping", "Open Source"]
+        self.currently  = "Building cool AI-powered projects "
 
     def say_hi(self):
         print("Thanks for visiting my profile! Let's build something amazing together.")
