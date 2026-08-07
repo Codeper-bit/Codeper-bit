@@ -2,7 +2,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there%2C+I'm+Codeper-bit+‹;Software+Engineer;Python+%7C+Web+Frameworks,AI+and+ML,AI+Integration;Building+the+future+with+code+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there%2C+I'm+Codeper-bit+‹;Software+Engineer,AI+and+ML+Engineer,Building+the+future+with+code+and+AI" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,11 +27,10 @@ class SeniorSoftwareEngineer:
     def __init__(self):
         self.name       = "Codeper-bit"
         self.role       = "Software Engineer"
-        self.location   = "Nigeria"
-        self.languages  = ["Python", "HTML", "CSS", "JavaScript"]
-        self.frameworks = ["FastAPI"]
+        self.languages  = ["Python", "HTML", "CSS", "JavaScript", "Tailwind CSS", "React"]
+        self.frameworks = ["FastAPI", "Flask"]
         self.interests  = ["AI & Machine Learning", "Web Designing", "Integration"]
-        self.currently  = "Building cool AI-powered projects "
+        self.currently  = "Building cool AI-powered projects"
 
     def say_hi(self):
         print("Thanks for visiting my profile! Let's build something amazing together.")
@@ -54,12 +53,13 @@ Languages
 Frameworks & Libraries
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=tailwindcsstapi&logoColor=white)
 
 Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=git&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -102,7 +102,7 @@ Connect With Me
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Must_Code_Your_Way)(https://youtube.com/@Must_Code_Your_Way)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@codeper-bit)(https://youtube.com/@Codeper-bit)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
 (mailto: olajidedaniel121@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Codeper-bit)
