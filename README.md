@@ -2,7 +2,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there%2C+I'm+Codeper-bit+‹;Software+Engineer,AI+and+ML+Engineer,Building+the+future+with+code+and+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there%2C+I'm+Codeper-bit+‹;Software+Engineer,AI+and+ML+Engineer;Building+the+future+with+code+and+AI" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -53,11 +53,11 @@ Languages
 Frameworks & Libraries
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=tailwindcsstapi&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-009688?style=for-the-badge&logo=tailwindcsstapi&logoColor=white)
 
 Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
