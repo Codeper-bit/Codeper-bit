@@ -23,20 +23,20 @@
 » About Me
 
 ```python
-class SeniorSoftwareEngineer:
+class SoftwareEngineer_&_AIEngineerr:
     def __init__(self):
         self.name       = "Codeper-bit"
         self.role       = "Software Engineer"
         self.location   = "Nigeria"
         self.languages  = ["Python", "HTML", "CSS", "JavaScript"]
         self.frameworks = ["FastAPI"]
-        self.interests  = ["AI & Machine Learning", "Web Designing", "Integration"]
+        self.interests  = ["AI & Machine Learning", "Web Designing", "AI Integration"]
         self.currently  = "Building cool AI-powered projects "
 
     def say_hi(self):
         print("Thanks for visiting my profile! Let's build something amazing together.")
 
-me = SeniorSoftwareEngineer()
+me = SoftwareEngineer_&_AIEngineer()
 me.say_hi()
 ```
 
@@ -49,17 +49,19 @@ Languages
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.dev/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://css3.dev/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.dev/)
+
 [![React](https://img.shields.io/badge/React-202324?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 
 Frameworks & Libraries
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+[![tailwindcss](https://img.shields.io/badge/React-202324?style=for-the-badge&logo=react&logoColor=61DAFB)](https://tailwindcss.com/)
 
 Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FCC624?style=for-the-badge&logo=git&logoColor=black)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ---
 
@@ -102,7 +104,7 @@ Connect With Me
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Must_Code_Your_Way)(https://youtube.com/@Must_Code_Your_Way)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@codeper-bit)(https://youtube.com/@codeper-bit)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
 (mailto: olajidedaniel121@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Codeper-bit)
