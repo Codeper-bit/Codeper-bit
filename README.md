@@ -35,7 +35,7 @@ class SeniorSoftwareEngineer:
     def say_hi(self):
         print("Thanks for visiting my profile! Let's build something amazing together.")
 
-me = SeniorSoftwareEngineer()
+me = SoftwareEngineer()
 me.say_hi()
 ```
 
