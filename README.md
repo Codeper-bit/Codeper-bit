@@ -29,8 +29,8 @@ class SeniorSoftwareEngineer:
         self.role       = "Software Engineer"
         self.languages  = ["Python", "HTML", "CSS", "JavaScript", "Tailwind CSS", "React"]
         self.frameworks = ["FastAPI", "Flask"]
-        self.interests  = ["AI & Machine Learning", "Web Designing", "Integration"]
-        self.currently  = "Building cool AI-powered projects"
+        self.interests  = ["AI & RAG", "Web Designing", "Integration"]
+        self.currently  = "Building cool AI-powered projects", "Dev tools"
 
     def say_hi(self):
         print("Thanks for visiting my profile! Let's build something amazing together.")
