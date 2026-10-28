@@ -1,39 +1,47 @@
 <div align="center">
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size30&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there%2C+I'm+Codeper-bit;Software+Engineer,AI+and+ML+Engineer;Building+the+future+with+code+and+AI" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e7490&height=200&section=header&text=Codeper-bit&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%20%26%20ML%20%C2%B7%20Web%20Design&descAlignY=58&descSize=18" width="100%" alt="Codeper-bit" />
+
+<a href="https://github.com/Codeper-bit">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=00D9FF&center=true&vCenter=true&width=620&height=40&lines=Hi+there%2C+I%27m+Codeper-bit;Software+Engineer+%C2%B7+AI+%26+ML+Engineer;Building+the+future+with+code+and+AI" alt="Typing SVG" />
 </a>
 
-<br/>
+<p>
+  <a href="https://final-product-of-the-ai-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0e7490?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/codeper-bit-8a8b3a410"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://youtube.com/@codeper-bit"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="mailto:olajidedaniel121@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<!-- Profile Image -->
-<img src="https://avatars.githubusercontent.com/Codeper-bit" width="150" style="border-radius: 50%;" alt="Profile Picture"/>
-
-<br/>
-
-<!-- Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=Codeper-bit&color=00d9ff&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/Codeper-bit?style=flat-square&color=00d9ff)](https://github.com/Codeper-bit)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Codeper-bit&color=00d9ff&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Codeper-bit?style=flat-square&color=00d9ff&labelColor=0d1117" alt="Followers" />
+</p>
 
 </div>
 
 ---
 
-» About Me
+## 👋 About me
+
+Software engineer from Nigeria 🇳🇬 who loves building AI-powered products and clean, fast web interfaces.
+
+- 🤖 Exploring **AI & RAG** and agentic apps
+- 🎨 Designing and building modern web UIs
+- 🔌 Connecting APIs and services (integration)
+- 🛠️ Currently building AI-powered projects and dev tools
 
 ```python
-class SeniorSoftwareEngineer:
+class SoftwareEngineer:
     def __init__(self):
         self.name       = "Codeper-bit"
-        self.role       = "Software Engineer"
-        self.languages  = ["Python", "HTML", "CSS", "JavaScript", "Tailwind CSS", "React"]
-        self.frameworks = ["FastAPI", "Flask"]
-        self.interests  = ["AI & RAG", "Web Designing", "Integration"]
-        self.currently  = "Building cool AI-powered projects", "Dev tools"
+        self.languages  = ["Python", "JavaScript", "HTML", "CSS"]
+        self.frameworks = ["React", "Tailwind CSS", "FastAPI", "Flask"]
+        self.interests  = ["AI & RAG", "Web Design", "Integration"]
+        self.currently  = ["AI-powered projects", "Dev tools"]
 
     def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something amazing together.")
+        print("Thanks for visiting! Let's build something amazing together.")
 
 me = SoftwareEngineer()
 me.say_hi()
@@ -41,82 +49,45 @@ me.say_hi()
 
 ---
 
-»Tech Stack & Skills
+## ⭐ Featured projects
 
-Languages
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://react.dev/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.dev/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://css3.dev/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.dev/)
-[![React](https://img.shields.io/badge/React-202324?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-
-Frameworks & Libraries
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-009688?style=for-the-badge&logo=tailwindcsstapi&logoColor=white)
-
-Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+| Project | What it does | Stack |
+|---|---|---|
+| [**AI Portfolio**](https://github.com/Codeper-bit/final-product-of-the-ai-portfolio) · [live](https://final-product-of-the-ai-portfolio.vercel.app/) | My AI-powered personal portfolio | JavaScript |
+| [**AI Resume Analyser**](https://github.com/Codeper-bit/final-product-of-the-ai-resume-analyser) | Analyses resumes with AI | JavaScript |
+| [**Food Mart Agentic**](https://github.com/Codeper-bit/food-mart-agentic) | An agentic food-mart app | JavaScript |
 
 ---
 
-GitHub Stats
+## 🧰 Tech stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Codeper-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Codeper-bit&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://skillicons.dev/icons?i=py,js,html,css,tailwind,react,fastapi,flask&theme=dark" alt="Languages and frameworks" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
+
+</div>
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Codeper-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codeper-bit&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codeper-bit&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com?user=Codeper-bit&theme=tokyonight&hide_border=true" alt="Streak" />
+
+<br/><br/>
+
+⭐ *If you find my repos useful, feel free to give them a star!*
 
 </div>
 
----
-
-GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Codeper-bit&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
-Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Codeper-bit&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
-
-Connect With Me
-
-<div align="center">
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@codeper-bit)(https://youtube.com/@Codeper-bit)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
-(mailto: olajidedaniel121@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Codeper-bit)
-
-</div>
-
----
-
-<div align="center">
-
-###A Quote I Live By
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-**Feel free to star my repos if you find them useful!**
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,100:0d1117&height=100&section=footer" width="100%" alt="" />
